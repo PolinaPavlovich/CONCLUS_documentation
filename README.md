@@ -1,2 +1,5 @@
 # CONCLUS_documentation
-A repository for up-to-date help documentation and vignettes of CONCLUS.
+conclus_manual.pdf is a reference manual for CONCLUS package in R.
+conclus_vignette.nb.html is an Rnotebook with CONCLUS vignette.
+
+The package itself is stored in https://github.com/PolinaPavlovich/CONCLUS.
